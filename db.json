@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Learn VUEJS",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "Learn ANGULAR",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "title": "Learn SPRING BOOT",
+      "completed": false
+    },
+    {
+      "id": 4,
+      "title": "Learn SPRING DATA",
+      "completed": true
+    }
+  ]
+}
